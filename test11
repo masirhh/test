@@ -1,4 +1,9 @@
 Hello world!
+<<<<<<< HEAD
 This is a new test word.
 
 this a word from uat branch
+=======
+This is a new test word
+this is a word from dev branch
+>>>>>>> dev
